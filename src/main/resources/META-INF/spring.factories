@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.hydra.cache.common.config.CommonConfig,\
+  com.hydra.cache.monolayer.config.MonoLayerCacheConfig,\
+  com.hydra.cache.bilayer.config.BiLayerCacheConfig,\
+  com.hydra.cache.bilayer.config.MessageConfig
