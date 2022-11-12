@@ -8,9 +8,9 @@
 
 ```xml
 <dependency>
-    <groupId>com.cn.hydra</groupId>
-    <artifactId>ulquiorra-cache</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+  <groupId>io.github.trunks2008</groupId>
+  <artifactId>ulquiorra-cache</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
 </dependency>
 ```
 
