@@ -8,6 +8,10 @@
     <artifactId>ulquiorra-cache</artifactId>
     <version>0.0.1-RELEASE</version>
 
+    <name>ulquiorra-cache</name>
+    <description>a tool about bilayer cache</description>
+    <url>https://github.com/trunks2008/ulquiorra-cache</url>
+
     <properties>
         <java.version>8</java.version>
         <spring-boot.version>2.6.7</spring-boot.version>
